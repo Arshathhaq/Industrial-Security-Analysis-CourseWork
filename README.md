@@ -257,10 +257,8 @@ The project report references the following resources:
 - MITRE ATT&CK for ICS
 - IEC 62443-3-3 — System security requirements and security levels
 
-## Authors
+## Author
 
-**Arshathul Mohamed Haq**  
-**Bahadur Ibrahim Khalifullah**
-
+**Arshathul Mohamed Haq Bahadur Ibrahim Khalifullah**
 Semester project: **Security Aspects in Industrial Areas**  
 Submission date: **15 July 2026**
