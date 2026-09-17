@@ -260,5 +260,6 @@ The project report references the following resources:
 ## Author
 
 **Arshathul Mohamed Haq Bahadur Ibrahim Khalifullah**
+
 Semester project: **Security Aspects in Industrial Areas**  
 Submission date: **15 July 2026**
